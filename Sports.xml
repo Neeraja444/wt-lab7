@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?DOCTYPE note
+[
+<!ELEMENT note (name,Leavedate,rollno,dept)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT Leavedate (#PCDATA)>
+<!ELEMENT rollno (#PCDATA)>
+<!ELEMENT dept (#PCDATA)>
+]?>
+<?xml-stylesheet type="text/xsl" href="Rules.xsl" ?>
+<participants>
+<details>
+<name> Arun </name>
+<Leavedate>01/08/2021-05/08/2021</Leavedate>
+<rollno>2047101</rollno>
+<dept> cs </dept>
+</details>
+<details>
+<name> Aniket </name>
+<Leavedate> 05/08/2021-20/08/2021</Leavedate>
+<rollno> 2047102</rollno>
+<dept> Bca </dept>
+</details>
+<details>
+<name> Simran </name>
+<Leavedate> 20/08/2021-28/08/2021</Leavedate>
+<rollno> 2047108</rollno>
+<dept> Bcom</dept>
+</details>
+<details>
+<name> Abhay </name>
+<Leavedate> 25/08/2021-20/08/2021</Leavedate>
+<rollno> 2047105</rollno>
+<dept> Msc</dept>
+</details>
+<details>
+<name> Himanshu </name>
+<Leavedate> 28/08/2021-31/08/2021</Leavedate>
+<rollno> 2047109</rollno>
+<dept> Mcom</dept>
+</details>
+<details>
+<name> Annanya </name>
+<Leavedate> 31/08/2021-31/08/2021</Leavedate>
+<rollno> 2047104</rollno>
+<dept> Mca</dept>
+</details>
+<details>
+<name>Niharika </name>
+<Leavedate> 20/08/2021-10/08/2021</Leavedate>
+<rollno>20471012</rollno>
+<dept>Ma</dept>
+</details>
+<details>
+<name> Alisha</name>
+<Leavedate> 15/08/2021-25/08/2021</Leavedate>
+<rollno> 20471014</rollno>
+<dept>BTech</dept>
+</details>
+<details>
+<name> Yadav</name>
+<Leavedate> 10/08/2021-15/08/2021</Leavedate>
+<rollno> 2047120</rollno>
+<dept>BA</dept>
+</details>
+</participants>
